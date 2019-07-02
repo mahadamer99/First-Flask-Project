@@ -1,4 +1,4 @@
 # First-Flask-Project
 Connecting Flask with html
-# Key takeaways
+## Key takeaways
 Difference between server side and client side
