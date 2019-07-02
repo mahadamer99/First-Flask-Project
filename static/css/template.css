@@ -1,0 +1,11 @@
+.logo {
+	background: pink;
+	font-size: 25pt;
+	font-weight: bold;
+	justify-content: right;
+	display: flex;
+}
+
+p{
+	font-size: 10pt
+}
